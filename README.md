@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MikhailMinaev/MikhailMinaev/blob/0d5ad74bf595b141a6c2a08a656892257cf795dd/Images/01_Welcome_Light.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/MikhailMinaev/MikhailMinaev/blob/0d5ad74bf595b141a6c2a08a656892257cf795dd/Images/01_Welcome_Light.png">
