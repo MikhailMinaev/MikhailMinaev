@@ -6,30 +6,30 @@
 
 
 <p>
-<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_03.png?raw=true" height="25px" padding-right="5px"/>
-<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_04.png?raw=true" height="25px"/>
-<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_05.png?raw=true" height="25px"/>
-<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_06.png?raw=true" height="25px"/>
-<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_07.png?raw=true" height="25px"/>
-<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_08.png?raw=true" height="25px"/>
-<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_09.png?raw=true" height="25px"/>
-<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_10.png?raw=true" height="25px"/>
-<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_11.png?raw=true" height="25px"/>
-<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_12.png?raw=true" height="25px"/>
-<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_13.png?raw=true" height="25px"/>
-<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_14.png?raw=true" height="25px"/>
-<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_15.png?raw=true" height="25px"/>
-<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_16.png?raw=true" height="25px"/>
-<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_17.png?raw=true" height="25px"/>
-<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_18.png?raw=true" height="25px"/>
-<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_19.png?raw=true" height="25px"/>
-<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_20.png?raw=true" height="25px"/>
-<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_21.png?raw=true" height="25px"/>
-<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_22.png?raw=true" height="25px"/>
-<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_23.png?raw=true" height="25px"/>
-<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_24.png?raw=true" height="25px"/>
-<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_25.png?raw=true" height="25px"/>
-<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_26.png?raw=true" height="25px"/>
+<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_v2_03.png?raw=true" height="25px" padding-right="5px"/>
+<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_v2_04.png?raw=true" height="25px"/>
+<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_v2_05.png?raw=true" height="25px"/>
+<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_v2_06.png?raw=true" height="25px"/>
+<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_v2_07.png?raw=true" height="25px"/>
+<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_v2_08.png?raw=true" height="25px"/>
+<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_v2_09.png?raw=true" height="25px"/>
+<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_v2_10.png?raw=true" height="25px"/>
+<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_v2_11.png?raw=true" height="25px"/>
+<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_v2_12.png?raw=true" height="25px"/>
+<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_v2_13.png?raw=true" height="25px"/>
+<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_v2_14.png?raw=true" height="25px"/>
+<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_v2_15.png?raw=true" height="25px"/>
+<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_v2_16.png?raw=true" height="25px"/>
+<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_v2_17.png?raw=true" height="25px"/>
+<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_v2_18.png?raw=true" height="25px"/>
+<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_v2_19.png?raw=true" height="25px"/>
+<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_v2_20.png?raw=true" height="25px"/>
+<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_v2_21.png?raw=true" height="25px"/>
+<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_v2_22.png?raw=true" height="25px"/>
+<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_v2_23.png?raw=true" height="25px"/>
+<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_v2_24.png?raw=true" height="25px"/>
+<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_v2_25.png?raw=true" height="25px"/>
+<img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/Badges/GitHubProfilePage_v2_26.png?raw=true" height="25px"/>
 </p>
 
 
