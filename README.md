@@ -34,13 +34,13 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MikhailMinaev/MikhailMinaev/blob/0c240404cf68b61c01908644f8cfd58afeb36d5b/Images/03_Skills_Dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MikhailMinaev/MikhailMinaev/blob/0c240404cf68b61c01908644f8cfd58afeb36d5b/Images/03_Skills_Light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/03_Skills_Light.png?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/03_Skills_Dark.png?raw=true">
   <img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/0c240404cf68b61c01908644f8cfd58afeb36d5b/Images/03_Skills_Light.png">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MikhailMinaev/MikhailMinaev/blob/0c240404cf68b61c01908644f8cfd58afeb36d5b/Images/04_Interest_Dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MikhailMinaev/MikhailMinaev/blob/0c240404cf68b61c01908644f8cfd58afeb36d5b/Images/04_Interest_Light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/04_Interest_Dark.png?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MikhailMinaev/MikhailMinaev/blob/master/Images/04_Interest_Light.png?raw=true">
   <img src="https://github.com/MikhailMinaev/MikhailMinaev/blob/0c240404cf68b61c01908644f8cfd58afeb36d5b/Images/04_Interest_Light.png">
 </picture>
